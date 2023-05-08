@@ -8,7 +8,7 @@ seo:
   name: HPC Driver's Ed
 ---
 
-# Welcome to the Vault of Knowledge fro FAMU Throws squad
+# Welcome to the Vault of Knowledge for FAMU Throws squad
 
   In this website you shall find the plans for our offseason with relevant videos and resources to be able to perform the programs. 
   
