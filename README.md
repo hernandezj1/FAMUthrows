@@ -1,6 +1,6 @@
 ---
 layout: home
-title: HPC Driver's Ed
+title: FAMU throws
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,8 +8,8 @@ seo:
   name: HPC Driver's Ed
 ---
 
-# Welcome to the RCC's HPC Driver's Ed course.
+# Welcome to the Vault of Knowledge fro FAMU Throws squad
 
-  By following these modules you will gain a better understanding of how High Performance Computing can help your research and instruction at Florida State University. The information inn this course is baseed on the Research Computing Center's documentation which can be found here <a href="https://docs.rcc.fsu.edu/">Docs</a>
-
-![](https://github.com/hernandezj1/hpced/blob/main/assets/images/paul.png?raw=true)
+  In this website you shall find the plans for our offseason with relevant videos and resources to be able to perform the programs. 
+  
+## Overview
