@@ -1,7 +1,7 @@
 ---
 name: Coach H
 role: Instructor
-email: jah22q@fsu.edu
+email: jose.perez@famu.edu
 website: https://rcc.fsu.edu/staff/jose-hernandez
 photo: jose-h-headshot.jpg
 ---
