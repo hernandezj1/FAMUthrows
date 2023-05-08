@@ -4,7 +4,7 @@ title: Off-season programs
 description: Course informatio
 ---
 
-# Lectures and Quizzes
+# Programs and exercise videos
 
 {% for module in site.modules %}
 {{ module }}
