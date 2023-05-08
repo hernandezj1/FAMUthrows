@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Modules
+title: Off-season programs
 description: Course informatio
 ---
 
