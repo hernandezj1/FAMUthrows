@@ -21,7 +21,7 @@ description: >-
 2. Become aware of our current habits and any big changes we have to make in nutrition, sleep, or mind performance
 
 ## Video and Description
-
+   __Please CLICK even if no image appears__
 [![Watch the video](https://img.youtube.com/vi/sVJPs5diS-w/maxresdefault.jpg)](https://youtu.be/sVJPs5diS-w)
 
 
@@ -37,6 +37,12 @@ Do not change anything the first 3 weeks, get your baseline
 <a href="https://www.amazon.com/Nutrition-Your-Way-Josh-Bryant-ebook/dp/B07MP7JM4T/ref=sr_1_1?keywords=nutrition+your+way&qid=1684532498&s=amazon-devices&sr=1-1">Nutrition  Your Way</a>
 
 <a href="https://www.amazon.com/Mind-Gym-Athletes-Guide-Excellence-ebook/dp/B006B7LP1O/ref=sr_1_1?crid=37PSJOGRWA4UG&keywords=mind+gym&qid=1684532544&sprefix=mind+gym%2Caps%2C105&sr=8-1">Mind Gym</a>
+
+## Submissions
+<a href="https://forms.gle/SBzUeZv1k8xXf6pp7">Week 1</a>
+<a href="https://forms.gle/wLnzCYMJsnbCQaFF7">Week 2</a>
+<a href="https://forms.gle/6wLzLfJHQYqb79RT9">Week 3</a>
+<a href="https://forms.gle/wSEbGAyyfxnvUd8C9">Week 4</a>
     
 
 
