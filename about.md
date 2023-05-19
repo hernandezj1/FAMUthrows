@@ -22,9 +22,9 @@ description: >-
 
 ## Video and Description
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aK9XpcoCDa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### <a href="https://www.youtube.com/watch?v=aK9XpcoCDa4"> Video </a>
 
-As said each week complete one of the parts of the Mind Gym book, one of the assigned chapters of the nutrition book ( 1,2,3,6) and track current food and sleep habits. 
+As said in the video each week complete one of the parts of the Mind Gym book, one of the assigned chapters of the nutrition book ( 1,2,3,6) and track current food and sleep habits. 
     
 ## Books
 <a href="https://www.amazon.com/Nutrition-Your-Way-Josh-Bryant-ebook/dp/B07MP7JM4T/ref=sr_1_1?keywords=nutrition+your+way&qid=1684532498&s=amazon-devices&sr=1-1">Nutrition  Your Way</a>
