@@ -22,9 +22,16 @@ description: >-
 
 ## Video and Description
 
-### <a href="https://www.youtube.com/watch?v=aK9XpcoCDa4"> Video </a>
+[![Watch the video](https://img.youtube.com/vi/sVJPs5diS-w/maxresdefault.jpg)](https://youtu.be/sVJPs5diS-w)
 
-As said in the video each week complete one of the parts of the Mind Gym book, one of the assigned chapters of the nutrition book ( 1,2,3,6) and track current food and sleep habits. 
+
+
+As said in the video each week complete one of the parts of the Mind Gym book, one of the assigned chapters of the nutrition book ( 1,2,3,6). For the Journal the components are: 
+    1. Food
+    2. Sleep
+    3. Mind
+    4. technique
+Do not change anything the first 3 weeks, get your baseline
     
 ## Books
 <a href="https://www.amazon.com/Nutrition-Your-Way-Josh-Bryant-ebook/dp/B07MP7JM4T/ref=sr_1_1?keywords=nutrition+your+way&qid=1684532498&s=amazon-devices&sr=1-1">Nutrition  Your Way</a>
